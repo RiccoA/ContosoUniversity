@@ -6,6 +6,7 @@
 *.dll
 *.exe
 *.pdb
+*.db
 *.dll.config
 *.cache
 *.suo
@@ -73,3 +74,5 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+ContosoUniversity.db
+ContosoUniversity.db
